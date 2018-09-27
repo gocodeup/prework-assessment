@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gocodeup/prework-assessment/issues"
   },
-  "homepage": "https://github.com/gocodeup/prework-assessment#readme"
+  "homepage": "https://github.com/gocodeup/prework-assessment#readme",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
 }

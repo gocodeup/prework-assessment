@@ -1,0 +1,10 @@
+## OS ignores
+.DS_Store
+Thumbs.db
+
+## Editor junk
+*.iml
+.idea/*
+
+## Dependencies
+node_modules/
