@@ -1,0 +1,23 @@
+{
+  "name": "prework-assessment",
+  "version": "1.0.0",
+  "description": "Automated tests for prework exercises expected to be completed prior to starting Codeup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gocodeup/prework-assessment.git"
+  },
+  "keywords": [
+    "tdd",
+    "javascript"
+  ],
+  "author": "Ryan Orsinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gocodeup/prework-assessment/issues"
+  },
+  "homepage": "https://github.com/gocodeup/prework-assessment#readme"
+}
